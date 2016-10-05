@@ -1,0 +1,38 @@
+﻿#About {
+ font-family: 'Kaushan Script', cursive;
+  background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-0/s480x480/14463231_145467392578841_284976612969818910_n.jpg?oh=ba16652441012a5587f03694d70ef7e9&oe=585F8802);
+     background-size: cover; 
+ 
+}
+#About p {
+    font-size:48px;
+    margin-top: 9%;    
+}
+#myNavbar {
+ font-family: 'Permanent Marker', cursive;
+}
+#mainImage {
+ width: 350px;
+ margin: 10%;
+}
+#Portfolio  {
+ font-family: 'Shrikhand', cursive;
+  background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-9/14448880_145467395912174_632952984443601107_n.jpg?oh=88c92e70605c6afac576731ece51fb7e&oe=58689F98);
+     background-size: cover; 
+}
+#Contacts {
+ font-family: 'Shrikhand', cursive;
+ color:aliceblue;
+  background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-9/14520595_145421602583420_8828147909017992129_n.jpg?oh=eefa4b0c919990b7d5237a3d8a3887f4&oe=587C44C1);
+     background-size: cover; 
+}
+#buttonsContacts {
+ margin: 15%;
+
+}
+h1 {
+    margin: 4%;
+}
+#buttonsAbout {
+    margin-bottom: 30px;
+}
